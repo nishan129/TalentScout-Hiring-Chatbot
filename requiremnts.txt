@@ -5,5 +5,7 @@ langchain-groq
 streamlit
 uvicorn
 python-dotenv
+pyyaml
+ipykernel
 
 -e .
